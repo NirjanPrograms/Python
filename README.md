@@ -1,2 +1,2 @@
-# Learning NumPy module in Python
+# Learn NumPy module in Python
 <hr>
